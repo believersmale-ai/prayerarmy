@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin
+Disallow: /manage
+Disallow: /portal
+Disallow: /api/
+Disallow: /uploads/
+Allow: /
